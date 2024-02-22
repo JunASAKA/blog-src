@@ -1,6 +1,6 @@
 ---
-linktitle: "Installing_Linux_on_Android"
-title: "～Android平台上chroot的使用纪要～"
+linktitle: "Installing Linux on Android Devices"
+title: "~Simple Chroot Implemention on Android~"
 date: 2022-07-29T07:56:35+08:00
 categories:
 - Embedded System
@@ -17,9 +17,11 @@ keywords:
 - Android
 thumbnailImage: thumbnail/installing_linux_on_android.jpg
 thumbnailImagePosition: left
-summary: "[Abstract] 在Android系统上通过chroot容器安装Linux发行版，并通过ssh等功能连接并调试。"
+summary: "[Abstract] Installing GNU/Linux on Android devices with chroot container."
 comments: false
 ---
+
+<!--more-->
 
 <h3>准备</h3>
 

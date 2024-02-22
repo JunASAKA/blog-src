@@ -13,9 +13,9 @@
 # use grunt task `build` to synchronize assets
 
 baseURL = "https://www.zzy040330.moe/"
-languageCode = "zh-cn"
-defaultContentLanguage = "zh-cn"
-title = "_Herrscher_of_the_Mukau_"
+languageCode = "en-us"
+defaultContentLanguage = "en-us"
+title = "Blog of Jun"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "_HerrscherZero_"
 # googleAnalytics = "UA-123-45"
@@ -50,13 +50,13 @@ smartypants = false
 # ------
 # Author
 # ------
-[author]
-  name = "浅香ジュン"
+[params.author]
+  name = "Jun ASAKA"
   bio = "<i>無何有居士~\\_Herrscher_of_the_Mukau\\_~</i>"
   job = "N.E.E.T."
-  location = "無何有之乡"
+  location = "Shandong Agricultural University"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  # gravatarEmail = "_herrscherzero_@zzy040330.moe"
+  # gravatarEmail = "JunASAKA@zzy040330.moe"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "images/avatar.jpeg"
@@ -126,7 +126,7 @@ smartypants = false
   # -----------
   # Description
   # -----------
-  description = "Blog for Herrscher Zero"
+  description = "Blog for Jun"
 
   # ------------------
   # Syntax highlighter
@@ -315,10 +315,10 @@ smartypants = false
 #    icon = "fab fa-whatsapp"
 #    url = "https://wa.me/?text=%s"
 
-  [[params.sharingOptions]]
-    name = "Linkedin"
-    icon = "fab fa-linkedin"
-    url = "https://www.linkedin.com/sharing/share-offsite/?url=%s"
+#  [[params.sharingOptions]]
+#   name = "Linkedin"
+#   icon = "fab fa-linkedin"
+#    url = "https://www.linkedin.com/sharing/share-offsite/?url=%s"
 
 #  [[params.sharingOptions]]
 #    name = "Reddit"

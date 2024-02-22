@@ -1,19 +1,20 @@
 ---
-linktitle: "Linux主线代码贡献纪要"
-title: "～Pathcwork相关系统操作纪要～"
+linktitle: "Minutes of Linux Kernel Contribution"
+title: "~Keys of Pathcwork System Usage~"
 date: 2022-12-17T16:13:01+08:00
 categories:
-- 纪要
-- 操作纪要
+- Minutes
+- Submission
 tags:
-- 纪要
+- Minutes
 - Linux
+- Kernel
 keywords:
 - patchwork
 - commitment
 thumbnailImage: thumbnail/patchwork.png
 thumbnailImagePosition: right
-summary: "[Abstract] 使用git等工具辅助以电子邮件向patchwork系统进行Linux主线代码贡献操作纪要。"
+summary: "[Abstract] Contributing to Linux mainline code via email with Git, Patchwork and other systems."
 comments: false
 ---
 

@@ -1,20 +1,20 @@
 ---
-linktitle: "關於層次分析法（AHP）的研究"
+linktitle: "Researching on the Analytic Hierarchy Process"
 title: ""
 date: 2022-09-29T10:44:39+08:00
 categories:
-- SC
+- Algorithm
 tags:
-- SC
-- 數學建模
+- Algorithm
+- Math
 - Octave
 keywords:
 - AHP
-- 數學建模
+- Math
 - Octave
 thumbnailImage: thumbnail/ahp.png
 thumbnailImagePosition: right
-summary: "[Abstract] 層次分析法是一種解決多目標的復雜問題的定性與定量相結合的決策分析方法。該方法將定量分析與定性分析結合起來，用決策者的經驗判斷各衡量目標之間能否實現的標準之間的相對重要程度，並合理地給出每個決策方案的每個標準的權數，利用權數求出各方案的優劣次序，比較有效地應用於那些難以用定量方法解決的課題。"
+summary: "[Abstract] The Analytic Hierarchy Process (AHP) is a decision analysis method that combines qualitative and quantitative aspects to tackle complex multi-objective problems. It integrates quantitative and qualitative analyses, enabling decision-makers to assess the relative importance of various criteria for achieving objectives based on their experience. AHP assigns appropriate weights to each criterion of every decision alternative and utilizes these weights to determine the superiority or inferiority of each alternative, making it particularly effective for addressing issues that are challenging to resolve using purely quantitative methods."
 comments: false
 ---
 

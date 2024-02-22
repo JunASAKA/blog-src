@@ -1,16 +1,16 @@
 ---
-linktitle: "Evaluating_iPhone_SE_2022"
-title: ""
+linktitle: "Evaluating iPhone SE 2022"
+title: "~My New Main Battle Device~"
 date: 2022-07-13T16:03:51+08:00
 categories:
-- 纪要
-- 评估
+- Minutes
+- Evaluation
 tags:
-- Evalution
+- Evaluation
 - iPhone
 keywords:
 - iPhone SE
-- Evalution
+- Evaluation
 - iPhone
 thumbnailImage: thumbnail/evaluating_iphone_se_2022.jpg
 thumbnailImagePosition: right

@@ -1,6 +1,6 @@
 ---
-linktitle: "家用多功能边缘路由器的实现"
-title: "～基于Red Hat Enterprise Linux 9.1的软件路由实现～"
+linktitle: "\"celosia\" is All You Need"
+title: "~Implemention of Free Multifunctional Software Router~"
 date: 2022-12-11T17:28:41+08:00
 categories:
 - Linux
@@ -14,9 +14,10 @@ keywords:
 - Software Router
 thumbnailImage: thumbnail/celosia.png
 thumbnailImagePosition: left
-summary: "[Abstract] 本项目以构建开源的家用边缘路由器为手段，以实现完全客制化的、自由的、无限制的、可自主控制的家用网络环境为目的进行研究。基于Intel x86平台的个人电脑与Red Hat Enterprise Linux操作系统实现了开源、自由的、多功能的家用边缘路由器；并因此组建完整的家用局域网络系统。"
+summary: "[Abstract] This project endeavors to research the realization of a fully customizable, liberated, unbounded, and autonomously controllable home network environment through the creation of an open-source home edge router. Leveraging personal computers built on the Intel x86 platform and the Red Hat Enterprise Linux operating system, we've attained an open, liberated, and multifaceted home edge router. Consequently, a comprehensive home LAN system has been established."
 ---
 
+<!--more-->
 
 <h3>序</h3>
 
