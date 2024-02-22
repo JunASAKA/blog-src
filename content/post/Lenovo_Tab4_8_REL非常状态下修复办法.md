@@ -10,11 +10,11 @@ tags:
 - Embedded System
 - Android
 - Flashing
-- Fixing
+- Repairing
 keywords:
 - Lenovo Tab4 8
 - Lenovo 8X04F
-- 修复
+- Repairing
 thumbnailImage: thumbnail/Lenovo_Tab4_8_REL非常状态下修复办法.jpg
 thumbnailImagePosition: left
 summary: "[Abstract] 在bootloader遭篡改等无法使用fastboot及recovery的情况下，不经过bootloader，使用EDL对Lenovo Tab4 8（Lenovo TB-8X04F）进行操作系统恢复。"

@@ -13,7 +13,7 @@ keywords:
 - patchwork
 - commitment
 thumbnailImage: thumbnail/patchwork.png
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 summary: "[Abstract] Contributing to Linux mainline code via email with Git, Patchwork and other systems."
 comments: false
 ---

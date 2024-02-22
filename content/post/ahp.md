@@ -13,7 +13,7 @@ keywords:
 - Math
 - Octave
 thumbnailImage: thumbnail/ahp.png
-thumbnailImagePosition: right
+thumbnailImagePosition: left
 summary: "[Abstract] The Analytic Hierarchy Process (AHP) is a decision analysis method that combines qualitative and quantitative aspects to tackle complex multi-objective problems. It integrates quantitative and qualitative analyses, enabling decision-makers to assess the relative importance of various criteria for achieving objectives based on their experience. AHP assigns appropriate weights to each criterion of every decision alternative and utilizes these weights to determine the superiority or inferiority of each alternative, making it particularly effective for addressing issues that are challenging to resolve using purely quantitative methods."
 comments: false
 ---

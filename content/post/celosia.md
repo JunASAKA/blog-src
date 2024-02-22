@@ -13,8 +13,9 @@ keywords:
 - Linux
 - Software Router
 thumbnailImage: thumbnail/celosia.png
-thumbnailImagePosition: left
+thumbnailImagePosition: right
 summary: "[Abstract] This project endeavors to research the realization of a fully customizable, liberated, unbounded, and autonomously controllable home network environment through the creation of an open-source home edge router. Leveraging personal computers built on the Intel x86 platform and the Red Hat Enterprise Linux operating system, we've attained an open, liberated, and multifaceted home edge router. Consequently, a comprehensive home LAN system has been established."
+comments: false
 ---
 
 <!--more-->
